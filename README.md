@@ -1,7 +1,7 @@
 # Dijkstras_Algorithm
 
 ---TR--- 
-Bu çalışmayı CENG 383 (Algoritmalar kursu) için yaptım.
+Bu çalışmayı CENG 383 (Algoritmalar dersi) için yaptım.
 Çalışma sırasında bazı kaynaklardan faydalandım.
 Umarım, sizin için faydalı olur.
 İyi günler dilerim! :)
